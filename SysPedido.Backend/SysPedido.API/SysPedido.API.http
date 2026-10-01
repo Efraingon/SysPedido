@@ -1,0 +1,6 @@
+@SysPedido.API_HostAddress = http://localhost:5128
+
+GET {{SysPedido.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

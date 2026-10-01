@@ -1,0 +1,24 @@
+# Build and Binaries (.NET)
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Node & Frontend dependencies
+node_modules/
+dist/
+.vite/
+*.local
+
+# Logs and runtime artifacts
+*.log
+*.err
+api.log
+api.err
+api_live.log
+prod_test.json
+
+# OS files
+Thumbs.db
+.DS_Store
